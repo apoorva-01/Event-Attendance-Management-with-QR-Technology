@@ -23,7 +23,7 @@ By integrating QR technology with Next.js for the registration website and Googl
 ![](./1.png)
 ![](./2.png)
 
-## Contact
+## Contact - Apoorva Verma
 
 [Resume Website](https://apoorva.igscs.in/)
 
